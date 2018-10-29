@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <integer name="header_menu_id">1</integer>
+  <integer name="home_menu_id">2</integer>
+  <integer name="product_menu_id">3</integer>
+  <integer name="order_menu_id">4</integer>
+  <integer name="historic_menu_id">5</integer>
+  <integer name="profile_menu_id">6</integer>
+  <integer name="search_menu_id">7</integer>
+</resources>
